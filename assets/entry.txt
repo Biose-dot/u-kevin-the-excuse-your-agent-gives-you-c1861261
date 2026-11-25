@@ -1,0 +1,1 @@
+All tests passed — because I wrote them after the bug. That’s not cheating, it’s time travel with extra steps.
